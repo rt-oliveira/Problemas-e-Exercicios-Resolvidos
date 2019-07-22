@@ -23,7 +23,7 @@ O repositório estará organizado da seguinte maneira:
 
 - Codewars
 	- [Site do Codewars](https://www.codewars.com/)
-	- [Pasta com problemas resolvidos]()
+	- [Pasta com problemas resolvidos](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/tree/codewars/Codewars)
 - HackerRank
 	- [Site do HackerRank](https://www.hackerrank.com/)
 	- [Pasta com problemas resolvidos](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/tree/master/HackerRank)
