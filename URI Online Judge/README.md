@@ -10,6 +10,9 @@
 |1004|Produto Simples|[Produto Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1004%20-%20Produto%20Simples.c),[Java](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/Java/1004%20-%20Produto%20Simples.java)
 |1005|Média 1|[Média 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1005%20-%20M%C3%A9dia%201.c)
 |1006|Média 2|[Média 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1006%20-%20M%C3%A9dia%202.c)
+|1007|Diferença|[Diferença](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1007%20-%20Diferen%C3%A7a.c)
+|1008|Salário|[Salário](https://www.urionlinejudge.com.br/judge/pt/problems/view/1008)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1008%20-%20Sal%C3%A1rio.c)
+|1009|Salário com Bônus|[Salário com Bônus](https://www.urionlinejudge.com.br/judge/pt/problems/view/1009)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1009%20-%20Sal%C3%A1rio%20com%20B%C3%B4nus.c)
 
 ## Problemas de SQL
 
