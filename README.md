@@ -23,7 +23,7 @@ O repositório estará organizado da seguinte maneira:
 
 - HackerRank
 	- [Site do HackerRank](https://www.hackerrank.com/)
-	- [Pasta com problemas resolvidos]()
+	- [Pasta com problemas resolvidos](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/tree/master/HackerRank)
 - URI Online Judge:
   - [Site do URI Online Judge](https://www.urionlinejudge.com.br/judge/en)
   - [Pasta com problemas resolvidos](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/tree/master/URI%20Online%20Judge)
