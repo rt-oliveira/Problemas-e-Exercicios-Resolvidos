@@ -1,5 +1,23 @@
 # Problemas resolvidos do URI Online Judge
 
+## Problemas de Iniciante
+
+|Código|Nome|Link do problema|Linguagens disponíveis|
+|------|----|----------------|----------------------|
+|1001|Extremamente Básico|[Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1001%20-%20Extremamente%20B%C3%A1sico.c), [C#](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C%23/1001%20-%20Extremamente%20B%C3%A1sico.cs), [Java](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/Java/1001%20-%20Extremamente%20B%C3%A1sico.java)
+|1002|Área do Círculo|[Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.c), [C#](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C%23/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.cs), [Java](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/Java/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.java)
+|1003|Soma Simples|[Soma Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1003%20-%20Soma%20Simples.c), [Java](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/Java/1003%20-%20Soma%20Simples.java)
+|1004|Produto Simples|[Produto Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1004%20-%20Produto%20Simples.c), [Java](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/Java/1004%20-%20Produto%20Simples.java)
+|1005|Média 1|[Média 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1005%20-%20M%C3%A9dia%201.c)
+|1006|Média 2|[Média 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1006%20-%20M%C3%A9dia%202.c)
+|1007|Diferença|[Diferença](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1007%20-%20Diferen%C3%A7a.c)
+|1008|Salário|[Salário](https://www.urionlinejudge.com.br/judge/pt/problems/view/1008)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1008%20-%20Sal%C3%A1rio.c)
+|1009|Salário com Bônus|[Salário com Bônus](https://www.urionlinejudge.com.br/judge/pt/problems/view/1009)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1009%20-%20Sal%C3%A1rio%20com%20B%C3%B4nus.c)
+|1010|Cálculo Simples|[Cálculo Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1010%20-%20C%C3%A1lculo%20Simples.c)
+|1011|Esfera|[Esfera](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1011%20-%20Esfera.c)
+|1012|Área|[Área](https://www.urionlinejudge.com.br/judge/pt/problems/view/1012)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1012%20-%20%C3%81rea.c)
+|1013|O Maior|[O Maior](https://www.urionlinejudge.com.br/judge/pt/problems/view/1013)|[C](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C/1013%20-%20O%20Maior.c)
+
 ## Problemas de SQL
 
 |Código|Nome|Link do problema|Linguagens disponíveis|
@@ -7,3 +25,9 @@
 |2602  |Select Básico|[Select Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/2602)|[SQL](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/SQL/2602%20-%20Select%20B%C3%A1sico.sql)
 |2603  |Endereço dos Clientes|[Endereço dos Clientes](https://www.urionlinejudge.com.br/judge/pt/problems/view/2603)|[SQL](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/SQL/2603%20-%20Endere%C3%A7o%20dos%20Clientes.sql)
 |2604  |Menores que 10 ou Maiores que 100|[Menores que 10 ou Maiores que 100](https://www.urionlinejudge.com.br/judge/pt/problems/view/2604)|[SQL](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/SQL/2604%20-%20Menores%20que%2010%20ou%20Maiores%20que%20100.sql)
+|2605  |Representantes Executivos|[Representantes Executivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/2605)|[SQL](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/SQL/2605%20-%20Representantes%20Executivos.sql)
+|2606  |Categorias|[Categorias](https://www.urionlinejudge.com.br/judge/pt/problems/view/2606)|[SQL](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/SQL/2606%20-%20Categorias.sql)
+|2607  |Cidades em Ordem Alfabética|[Cidades em Ordem Alfabética](https://www.urionlinejudge.com.br/judge/pt/problems/view/2607)|[SQL](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/SQL/2607%20-%20Cidades%20em%20Ordem%20Alfab%C3%A9tica.sql)
+|2608  |Maior e Menor Preço|[Maior e Menor Preço](https://www.urionlinejudge.com.br/judge/pt/problems/view/2608)|[SQL](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/SQL/2608%20-%20Maior%20e%20Menor%20Pre%C3%A7o.sql)
+|2611  |Filmes de Ação|[Filmes de Ação](https://www.urionlinejudge.com.br/judge/pt/problems/view/2611)|[SQL](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/SQL/2611%20-%20Filmes%20de%20A%C3%A7%C3%A3o.sql)
+|2613  |Filmes em Promoção|[Filmes em Promoção](https://www.urionlinejudge.com.br/judge/pt/problems/view/2613)|[SQL](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/SQL/2613%20-%20Filmes%20em%20Promo%C3%A7%C3%A3o.sql)
