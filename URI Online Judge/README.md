@@ -4,8 +4,8 @@
 
 |Código|Nome|Link do problema|Linguagens disponíveis|
 |------|----|----------------|----------------------|
-|1001|Extremamente Básico|[Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)|[C#](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C%23/1001%20-%20Extremamente%20B%C3%A1sico.cs)
-|1002|Área do Círculo|[Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)|[C#](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C%23/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.cs)
+|1001|Extremamente Básico|[Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)|[C#](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C%23/1001%20-%20Extremamente%20B%C3%A1sico.cs),[Java](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/Java/1001%20-%20Extremamente%20B%C3%A1sico.java)
+|1002|Área do Círculo|[Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)|[C#](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C%23/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.cs),[Java](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/Java/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.java)
 
 ## Problemas de SQL
 
