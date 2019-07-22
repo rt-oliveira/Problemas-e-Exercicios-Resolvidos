@@ -20,3 +20,7 @@ O repositório estará organizado da seguinte maneira:
 - Dentro de cada pasta, haverá um README.md. Este documento mostrará os exercícios resolvidos que estão com código-fonte. Além disso, mostrará também as linguagens disponíveis com código-fonte daquele problema/exercício.
 
 ## Sites de problemas/exercícios com códigos-fonte de problemas resolvidos:
+
+- URI Online Judge:
+  - [Site do URI Online Judge](https://www.urionlinejudge.com.br/judge/en)
+  - [Pasta com problemas resolvidos][https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/tree/master/URI%20Online%20Judge]
