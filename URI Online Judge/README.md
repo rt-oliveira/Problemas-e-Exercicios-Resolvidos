@@ -1,5 +1,11 @@
 # Problemas resolvidos do URI Online Judge
 
+## Problemas de Iniciante
+
+|Código|Nome|Link do problema|Linguagens disponíveis|
+|------|----|----------------|----------------------|
+|1001|Extremamente Básico|[Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)|[C#](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/blob/master/URI%20Online%20Judge/C%23/1001%20-%20Extremamente%20B%C3%A1sico.cs)
+
 ## Problemas de SQL
 
 |Código|Nome|Link do problema|Linguagens disponíveis|
