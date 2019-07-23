@@ -4,4 +4,4 @@
 
 |Código|Nome|Link do Problema|Linguagens disponíveis|
 |------|----|----------------|----------------------|
-|1     |Multiples of 3 and 5|[Multiples of 3 and 5](https://projecteuler.net/problem=1)|[Python 3](Python%203/Multiples%20of%203%20and%205.py)|
+|1     |Multiples of 3 and 5|[Multiples of 3 and 5](https://projecteuler.net/problem=1)|[Python 3](Python%203/1%20-%20Multiples%20of%203%20and%205.py)|
