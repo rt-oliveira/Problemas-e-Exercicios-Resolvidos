@@ -52,6 +52,9 @@ O repositório estará organizado da seguinte maneira:
       - [Site do HackerRank](https://www.hackerrank.com/)
       - [Pasta com problemas
         resolvidos](https://github.com/rt-oliveira/Problemas-e-Exercicios-Resolvidos/tree/master/HackerRank)
+  - Project Euler
+      - [Site do Project Euler](https://projecteuler.net/)
+      - [Pasta com problemas resolvidos](/Project%20Euler)
   - URI Online Judge:
       - [Site do URI Online
         Judge](https://www.urionlinejudge.com.br/judge/en)
