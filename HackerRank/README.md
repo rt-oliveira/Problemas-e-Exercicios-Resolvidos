@@ -10,3 +10,4 @@
 | Plus Minus           | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)                     | [C#](C%23/Plus%23Minus.cs)                                                 |
 | Simple Array Sum     | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)         | [C#](C%23/Simple%20Array%20Sum.cs), [Java](Java/Simple%20Array%20Sum.java) |
 | Solve Me First       | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)             | [C#](C%23/Solve%20me%20First.cs), [Java](Solve%20Me%20First.java)          |
+| Staircase            | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)                       | [C#](C%23/Staircase.cs)                                                    |
