@@ -23,9 +23,10 @@
 
 ## Problemas de nível 7 kyu
 
-| Nome                      | Linguagens disponíveis                                                                                                                         |
-|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome                      | Linguagens disponíveis                                 |
+|---------------------------|--------------------------------------------------------|
 | Are the numbers in order? | [C#](C%23/7%20kyu/Are%20the%20numbers%20in%20order.cs)
+| Complementaty DNA         | [C#](C%23/7%20kyu/Complementary%20DNA.cs)
 | Disemvowel Trolls         | [C#](C%23/7%20kyu/Disemvowel%20Trolls.cs)
 | Get the Middle Character  | [C#](C%23/7%20kyu/Get%20the%20Middle%20Character.cs)
 | Highest and Lowest        | [C#](C%23/7%20kyu/Highest%20and%20Lowest.cs)
