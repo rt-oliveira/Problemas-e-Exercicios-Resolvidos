@@ -28,10 +28,11 @@
 | Are the numbers in order? | [C#](C%23/7%20kyu/Are%20the%20numbers%20in%20order.cs)
 | Complementaty DNA         | [C#](C%23/7%20kyu/Complementary%20DNA.cs)
 | Disemvowel Trolls         | [C#](C%23/7%20kyu/Disemvowel%20Trolls.cs)
+| Exes and Ohs              | [C#](C%23/7%20kyu/Exes%20and%20Ohs.cs)                  |
 | Get the Middle Character  | [C#](C%23/7%20kyu/Get%20the%20Middle%20Character.cs)
 | Highest and Lowest        | [C#](C%23/7%20kyu/Highest%20and%20Lowest.cs)
 | Mumbling                  | [C#](C%23/7%20kyu/Mumbling.cs)
 | Shortest Word             | [JavaScript](JavaScript/7%20kyu/Shortest%20Word.js)
-| Square Every Digit        | [C#](C%23/7%20kyu/Square%20Every%20Digit.cs)           
+| Square Every Digit        | [C#](C%23/7%20kyu/Square%20Every%20Digit.cs)
 | Sum of angles             | [JavaScript](JavaScript/7%20kyu/Sum%20of%20angles.js)
 | Vowel Count               | [C#](C%23/7%20kyu/Vowel%20Count.cs)
