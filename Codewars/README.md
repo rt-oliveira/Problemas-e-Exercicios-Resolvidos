@@ -14,6 +14,7 @@
 | Find the smallest integer in the array      | [C#](C%23/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array.cs)
 | Get Nth Even Number                         | [C#](C%23/8%20kyu/Get%20Nth%20Even%20Number.cs)
 | Grasshopper - Summation                     | [C#](C%23/8%20kyu/Grasshopper%20-%20Summation.cs)
+| Invert values                               |[Java](Java/8%20kyu/Invert%20values.java)
 | Is n divisible by x and y?                  | [C#](C%23/8%20kyu/Is%20n%20divisible%20by%20x%20and%20y.cs)
 | Keep Hydrated                               | [Java](Java/8%20kyu/Keep%20Hydrated.java)
 | Multiply                                    | [C#](C%23/8%20kyu/Multiply.cs), [JavaScript](JavaScript/8%20kyu/Multiply.js)
