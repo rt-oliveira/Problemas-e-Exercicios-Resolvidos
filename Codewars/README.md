@@ -2,8 +2,8 @@
 
 ## Problemas de nível 8 kyu
 
-| Nome                                        | Linguagens disponíveis                                                                                                                                                                                                                                                         |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome                                        | Linguagens disponíveis                                                                         |
+|---------------------------------------------|------------------------------------------------------------------------------------------------|
 | Basic Mathematical Operations               | [C#](C%23/8%20kyu/Basic%20Mathematical%20Operations.cs)
 | Compare within Margin                       | [C#](C%23/8%20kyu/Compare%20within%20margin.cs)
 | Convert boolean values to strings Yes or no | [C#](C%23/8%20kyu/Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.cs)
@@ -14,6 +14,7 @@
 | Get Nth Even Number                         | [C#](C%23/8%20kyu/Get%20Nth%20Even%20Number.cs)
 | Grasshopper - Summation                     | [C#](C%23/8%20kyu/Grasshopper%20-%20Summation.cs)
 | Is n divisible by x and y?                  | [C#](C%23/8%20kyu/Is%20n%20divisible%20by%20x%20and%20y.cs)
+| Keep Hydrated                               | [Java](Java/8%20kyu/Keep%20Hydrated.java)                                                      
 | Multiply                                    | [C#](C%23/8%20kyu/Multiply.cs), [JavaScript](JavaScript/8%20kyu/Multiply.js)
 | Opposite number                             | [C#](C%23/8%20kyu/Opposite%20number.cs), [JavaScript](JavaScript/8%20kyu/Opposite%20number.js)
 | Remove First and Last Character             | [JavaScript](JavaScript/8%20kyu/Remove%20First%20and%20Last%20Character.js)
