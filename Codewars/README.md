@@ -6,6 +6,7 @@
 |---------------------------------------------|------------------------------------------------------------------------------------------------|
 | Basic Mathematical Operations               | [C#](C%23/8%20kyu/Basic%20Mathematical%20Operations.cs)
 | Beginner - Reduce but Grow                  | [Java](Java/8%20kyu/Beginner%20-%20Reduce%20but%20Grow.java)
+| Calculate average                           | [Java](Java/8%20kyu/Calculate%20average.java)                                                  
 | Compare within Margin                       | [C#](C%23/8%20kyu/Compare%20within%20margin.cs)
 | Convert boolean values to strings Yes or no | [C#](C%23/8%20kyu/Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.cs)
 | Count of positives / sum of negatives       | [JavaScript](JavaScript/8%20kyu/Count%20of%20positives%20-%20sum%20of%20negatives.js)
@@ -14,7 +15,7 @@
 | Find the smallest integer in the array      | [C#](C%23/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array.cs)
 | Get Nth Even Number                         | [C#](C%23/8%20kyu/Get%20Nth%20Even%20Number.cs)
 | Grasshopper - Summation                     | [C#](C%23/8%20kyu/Grasshopper%20-%20Summation.cs)
-| Invert values                               |[Java](Java/8%20kyu/Invert%20values.java)
+| Invert values                               | [Java](Java/8%20kyu/Invert%20values.java)
 | Is n divisible by x and y?                  | [C#](C%23/8%20kyu/Is%20n%20divisible%20by%20x%20and%20y.cs)
 | Keep Hydrated                               | [Java](Java/8%20kyu/Keep%20Hydrated.java)
 | Multiply                                    | [C#](C%23/8%20kyu/Multiply.cs), [JavaScript](JavaScript/8%20kyu/Multiply.js)
