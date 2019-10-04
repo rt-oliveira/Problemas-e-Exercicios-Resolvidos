@@ -4,6 +4,7 @@
 
 | Nome                                        | Linguagens disponíveis                                                                         |
 |---------------------------------------------|------------------------------------------------------------------------------------------------|
+| Abbreviate a Two Word Name                  | [Java](Java/8%20kyu/Abbreviate%20a%20Two%20Word%20Name.java)                                   
 | Basic Mathematical Operations               | [C#](C%23/8%20kyu/Basic%20Mathematical%20Operations.cs)
 | Beginner - Reduce but Grow                  | [Java](Java/8%20kyu/Beginner%20-%20Reduce%20but%20Grow.java)
 | Calculate average                           | [Java](Java/8%20kyu/Calculate%20average.java)
