@@ -12,6 +12,7 @@
 | Compare within Margin                       | [C#](C%23/8%20kyu/Compare%20within%20margin.cs)                                                |
 | Convert boolean values to strings Yes or no | [C#](C%23/8%20kyu/Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.cs)                |
 | Count of positives / sum of negatives       | [JavaScript](JavaScript/8%20kyu/Count%20of%20positives%20-%20sum%20of%20negatives.js)          |
+| Count the Monkeys                           | [Java](Java/8%20kyu/Count%20the%20Monkeys.java)                                                   |
 | Counting sheep...                           | [JavaScript](JavaScript/8%20kyu/Counting%20sheep....js)                                        |
 | Even or Odd                                 | [C#](C%23/8%20kyu/Even%20or%20Odd.cs), [JavaScript](JavaScript/8%20kyu/Even%20or%20Odd.js)     |
 | Fake Binary                                 | [Java](Java/8%20kyu/Fake%20Binary.java)                                                        |
