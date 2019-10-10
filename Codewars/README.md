@@ -47,3 +47,9 @@
 | Sum of angles             | [JavaScript](JavaScript/7%20kyu/Sum%20of%20angles.js)  |
 | Vowel Count               | [C#](C%23/7%20kyu/Vowel%20Count.cs)                    |
 | You're a square!          | [C#](C%23/7%20kyu/You're%20a%20square.cs)              |
+
+## Problemas de nível 6 kyu
+
+| Nome                | Linguagens Disponíveis                                |
+|:--------------------|:------------------------------------------------------|
+| Multiples of 3 or 5 | [Java](Java/6%20kyu/Multiples%20of%203%20or%205.java) |
