@@ -36,6 +36,7 @@
 | Nome                      | Linguagens disponíveis                                 |
 |:--------------------------|:-------------------------------------------------------|
 | Are the numbers in order? | [C#](C%23/7%20kyu/Are%20the%20numbers%20in%20order.cs) |
+| Ch4113ng3                 | [Java](Java/7%20kyu/Ch4113ng3.java)                    |
 | Complementaty DNA         | [C#](C%23/7%20kyu/Complementary%20DNA.cs)              |
 | Disemvowel Trolls         | [C#](C%23/7%20kyu/Disemvowel%20Trolls.cs)              |
 | Exes and Ohs              | [C#](C%23/7%20kyu/Exes%20and%20Ohs.cs)                 |
