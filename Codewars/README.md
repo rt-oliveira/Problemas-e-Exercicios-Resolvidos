@@ -54,3 +54,9 @@
 | Nome                | Linguagens Disponíveis                                |
 |:--------------------|:------------------------------------------------------|
 | Multiples of 3 or 5 | [Java](Java/6%20kyu/Multiples%20of%203%20or%205.java) |
+
+## Problemas de nível 5 kyu
+
+|   Nome  |       Linguagens Disponíveis      |
+|---------|-----------------------------------|
+| Soundex | [Java](Java/5%20kyu/Soundex.java) |
