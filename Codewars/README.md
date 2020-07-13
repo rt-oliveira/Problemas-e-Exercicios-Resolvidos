@@ -8,6 +8,7 @@
 | Basic Mathematical Operations               | [C#](C%23/8%20kyu/Basic%20Mathematical%20Operations.cs)                                                                   |
 | Beginner - Lost Without a Map               | [Java](Java/8%20kyu/Beginner%20-%20Lost%20Without%20a%20Map.java)                                                         |
 | Beginner - Reduce but Grow                  | [Java](Java/8%20kyu/Beginner%20-%20Reduce%20but%20Grow.java)                                                              |
+| Beginner Series #2 Clock                    | [SQL](SQL/8%20kyu/Beginner%20Series%20%232%20Clock.sql)                                                                   |
 | Calculate average                           | [Java](Java/8%20kyu/Calculate%20average.java)                                                                             |
 | Compare within Margin                       | [C#](C%23/8%20kyu/Compare%20within%20margin.cs)                                                                           |
 | Convert boolean values to strings Yes or no | [C#](C%23/8%20kyu/Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.cs)                                           |
