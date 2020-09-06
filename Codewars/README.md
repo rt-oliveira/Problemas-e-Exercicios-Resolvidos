@@ -29,7 +29,7 @@
 | Opposite number                             | [C#](C%23/8%20kyu/Opposite%20number.cs), [JavaScript](JavaScript/8%20kyu/Opposite%20number.js)                            |
 | Remove First and Last Character             | [JavaScript](JavaScript/8%20kyu/Remove%20First%20and%20Last%20Character.js)                                               |
 | Return Negative                             | [C#](C%23/8%20kyu/Return%20Negative.cs), [JavaScript](JavaScript/8%20kyu/Return%20negative.js)                            |
-| SQL Basics: Mod                             | [SQL](SQL%5C8%20kyu%5CSQL%20Basics%20-%20mod.sql)                                                                         |
+| SQL Basics: Mod                             | [SQL](SQL/8%20kyu/SQL%20Basics%20-%20mod.sql)                                                                             |
 | Square(n) Sum                               | [JavaScript](JavaScript/8%20kyu/Square\(n\)%20Sum.js)                                                                     |
 | Sum of positive                             | [C#](C%23/8%20kyu/Sum%20of%20positive.cs)                                                                                 |
 
