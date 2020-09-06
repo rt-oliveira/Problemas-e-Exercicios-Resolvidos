@@ -5,6 +5,7 @@
 | Nome                                        | Linguagens disponíveis                                                                                                    |
 |---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | Abbreviate a Two Word Name                  | [Java](Java/8%20kyu/Abbreviate%20a%20Two%20Word%20Name.java)                                                              |
+| Adults only (SQL for Beginners #1)          | [SQL](SQL%2F8%20kyu%2FAdults%20only%20(SQL%20for%20Beginners%20%231).sql)                                                 |
 | Basic Mathematical Operations               | [C#](C%23/8%20kyu/Basic%20Mathematical%20Operations.cs)                                                                   |
 | Beginner - Lost Without a Map               | [Java](Java/8%20kyu/Beginner%20-%20Lost%20Without%20a%20Map.java)                                                         |
 | Beginner - Reduce but Grow                  | [Java](Java/8%20kyu/Beginner%20-%20Reduce%20but%20Grow.java)                                                              |
