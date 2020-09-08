@@ -33,6 +33,7 @@
 | Remove First and Last Character             | [JavaScript](JavaScript/8%20kyu/Remove%20First%20and%20Last%20Character.js)                                               |
 | Return Negative                             | [C#](C%23/8%20kyu/Return%20Negative.cs), [JavaScript](JavaScript/8%20kyu/Return%20negative.js)                            |
 | SQL Basics: Mod                             | [SQL](SQL/8%20kyu/SQL%20Basics%20-%20mod.sql)                                                                             |
+| SQL Basics: Simple DISTINCT                 | [SQL](SQL%2F8%20kyu%2FSQL%20Basics%20-%20Simple%20DISTINCT.sql)                                                           |
 | SQL Basics: Simple WHERE and ORDER BY       | [SQL](SQL%2F8%20kyu%2FSQL%20Basics%20-%20Simple%20WHERE%20and%20ORDER%20BY.sql)                                           |
 | Square(n) Sum                               | [JavaScript](JavaScript/8%20kyu/Square\(n\)%20Sum.js)                                                                     |
 | Sum of positive                             | [C#](C%23/8%20kyu/Sum%20of%20positive.cs)                                                                                 |
