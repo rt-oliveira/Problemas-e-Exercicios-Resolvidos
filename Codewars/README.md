@@ -58,9 +58,10 @@
 
 ## Problemas de nível 6 kyu
 
-| Nome                | Linguagens Disponíveis                                |
-|---------------------|-------------------------------------------------------|
-| Multiples of 3 or 5 | [Java](Java/6%20kyu/Multiples%20of%203%20or%205.java) |
+| Nome                                    | Linguagens Disponíveis                                                         |
+|-----------------------------------------|--------------------------------------------------------------------------------|
+| Analyzing the sales by product and date | [SQL](SQL%2F6%20kyu%2FAnalyzing%20the%20sales%20by%20product%20and%20date.sql) |
+| Multiples of 3 or 5                     | [Java](Java/6%20kyu/Multiples%20of%203%20or%205.java)                          |
 
 ## Problemas de nível 5 kyu
 
