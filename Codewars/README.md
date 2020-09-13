@@ -62,6 +62,7 @@
 |-----------------------------------------|--------------------------------------------------------------------------------|
 | Analyzing the sales by product and date | [SQL](SQL%2F6%20kyu%2FAnalyzing%20the%20sales%20by%20product%20and%20date.sql) |
 | Multiples of 3 or 5                     | [Java](Java/6%20kyu/Multiples%20of%203%20or%205.java)                          |
+| SQL Basics: Simple HAVING               | [SQL](SQL%2F6%20kyu%2FSQL%20Basics%20-%20Simple%20HAVING.sql)                  |
 
 ## Problemas de nível 5 kyu
 
