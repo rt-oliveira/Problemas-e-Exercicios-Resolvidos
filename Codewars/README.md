@@ -65,6 +65,7 @@
 | Calculating Batting Average             | [SQL](SQL/6%20kyu/Calculating%20Batting%20Average.sql)                         |
 | Multiples of 3 or 5                     | [Java](Java/6%20kyu/Multiples%20of%203%20or%205.java)                          |
 | SQL Basics: Simple HAVING               | [SQL](SQL%2F6%20kyu%2FSQL%20Basics%20-%20Simple%20HAVING.sql)                  |
+| SQL Basics: Truncating                  | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Truncating.sql)                           |
 
 ## Problemas de nível 5 kyu
 
