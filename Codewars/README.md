@@ -53,6 +53,7 @@
 | Highest and Lowest                      | [C#](C%23/7%20kyu/Highest%20and%20Lowest.cs)                                  |
 | Mumbling                                | [C#](C%23/7%20kyu/Mumbling.cs)                                                |
 | SQL Basics: Simple BETWEEN and ORDER BY | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Simple%20BETWEEN%20and%20ORDER%20BY.sql) |
+| SQL: Concatenating Columns              | [SQL](SQL/7%20kyu/SQL%20-%20Concatenating%20Columns.sql)                      |
 | Shortest Word                           | [JavaScript](JavaScript/7%20kyu/Shortest%20Word.js)                           |
 | Square Every Digit                      | [C#](C%23/7%20kyu/Square%20Every%20Digit.cs)                                  |
 | Sum of angles                           | [JavaScript](JavaScript/7%20kyu/Sum%20of%20angles.js)                         |
