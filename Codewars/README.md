@@ -40,27 +40,28 @@
 
 ## Problemas de nível 7 kyu
 
-| Nome                                    | Linguagens disponíveis                                                        |
-|-----------------------------------------|-------------------------------------------------------------------------------|
-| Alphabetical Addition                   | [SQL](SQL/7%20kyu/Alphabetical%20Addition.sql)                                |
-| Are the numbers in order?               | [C#](C%23/7%20kyu/Are%20the%20numbers%20in%20order.cs)                        |
-| BASICS: Length based SELECT with LIKE   | [SQL](SQL/7%20kyu/BASICS%20-%20Length%20based%20SELECT%20with%20LIKE.sql)     |
-| Ch4113ng3                               | [Java](Java/7%20kyu/Ch4113ng3.java)                                           |
-| Complementaty DNA                       | [C#](C%23/7%20kyu/Complementary%20DNA.cs)                                     |
-| Disemvowel Trolls                       | [C#](C%23/7%20kyu/Disemvowel%20Trolls.cs)                                     |
-| Exes and Ohs                            | [C#](C%23/7%20kyu/Exes%20and%20Ohs.cs)                                        |
-| GROCERY STORE: Support Local Products   | [SQL](SQL%2F7%20kyu%2FGROCERY%20STORE%20-%20Support%20Local%20Products.sql)   |
-| Get the Middle Character                | [C#](C%23/7%20kyu/Get%20the%20Middle%20Character.cs)                          |
-| Highest and Lowest                      | [C#](C%23/7%20kyu/Highest%20and%20Lowest.cs)                                  |
-| Mumbling                                | [C#](C%23/7%20kyu/Mumbling.cs)                                                |
-| SQL Basics: Simple BETWEEN and ORDER BY | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Simple%20BETWEEN%20and%20ORDER%20BY.sql) |
-| SQL: Concatenating Columns              | [SQL](SQL/7%20kyu/SQL%20-%20Concatenating%20Columns.sql)                      |
-| SQL: Right and Left                     | [SQL](SQL/7%20kyu/SQL%20-%20Right%20and%20Left.sql)                           |
-| Shortest Word                           | [JavaScript](JavaScript/7%20kyu/Shortest%20Word.js)                           |
-| Square Every Digit                      | [C#](C%23/7%20kyu/Square%20Every%20Digit.cs)                                  |
-| Sum of angles                           | [JavaScript](JavaScript/7%20kyu/Sum%20of%20angles.js)                         |
-| Vowel Count                             | [C#](C%23/7%20kyu/Vowel%20Count.cs)                                           |
-| You're a square!                        | [C#](C%23/7%20kyu/You're%20a%20square.cs)                                     |
+| Nome                                                       | Linguagens disponíveis                                                                            |
+|------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Alphabetical Addition                                      | [SQL](SQL/7%20kyu/Alphabetical%20Addition.sql)                                                    |
+| Are the numbers in order?                                  | [C#](C%23/7%20kyu/Are%20the%20numbers%20in%20order.cs)                                            |
+| BASICS: Length based SELECT with LIKE                      | [SQL](SQL/7%20kyu/BASICS%20-%20Length%20based%20SELECT%20with%20LIKE.sql)                         |
+| Ch4113ng3                                                  | [Java](Java/7%20kyu/Ch4113ng3.java)                                                               |
+| Complementaty DNA                                          | [C#](C%23/7%20kyu/Complementary%20DNA.cs)                                                         |
+| Countries Capitals for Trivia Night (SQL for Beginners #6) | [SQL](SQL/7%20kyu/Countries%20Capitals%20for%20Trivia%20Night%20(SQL%20for%20Beginners%20#6).sql) |
+| Disemvowel Trolls                                          | [C#](C%23/7%20kyu/Disemvowel%20Trolls.cs)                                                         |
+| Exes and Ohs                                               | [C#](C%23/7%20kyu/Exes%20and%20Ohs.cs)                                                            |
+| GROCERY STORE: Support Local Products                      | [SQL](SQL%2F7%20kyu%2FGROCERY%20STORE%20-%20Support%20Local%20Products.sql)                       |
+| Get the Middle Character                                   | [C#](C%23/7%20kyu/Get%20the%20Middle%20Character.cs)                                              |
+| Highest and Lowest                                         | [C#](C%23/7%20kyu/Highest%20and%20Lowest.cs)                                                      |
+| Mumbling                                                   | [C#](C%23/7%20kyu/Mumbling.cs)                                                                    |
+| SQL Basics: Simple BETWEEN and ORDER BY                    | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Simple%20BETWEEN%20and%20ORDER%20BY.sql)                     |
+| SQL: Concatenating Columns                                 | [SQL](SQL/7%20kyu/SQL%20-%20Concatenating%20Columns.sql)                                          |
+| SQL: Right and Left                                        | [SQL](SQL/7%20kyu/SQL%20-%20Right%20and%20Left.sql)                                               |
+| Shortest Word                                              | [JavaScript](JavaScript/7%20kyu/Shortest%20Word.js)                                               |
+| Square Every Digit                                         | [C#](C%23/7%20kyu/Square%20Every%20Digit.cs)                                                      |
+| Sum of angles                                              | [JavaScript](JavaScript/7%20kyu/Sum%20of%20angles.js)                                             |
+| Vowel Count                                                | [C#](C%23/7%20kyu/Vowel%20Count.cs)                                                               |
+| You're a square!                                           | [C#](C%23/7%20kyu/You're%20a%20square.cs)                                                         |
 
 ## Problemas de nível 6 kyu
 
