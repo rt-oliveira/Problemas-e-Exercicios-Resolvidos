@@ -54,6 +54,7 @@
 | Get the Middle Character                                   | [C#](C%23/7%20kyu/Get%20the%20Middle%20Character.cs)                                             |
 | Highest and Lowest                                         | [C#](C%23/7%20kyu/Highest%20and%20Lowest.cs)                                                     |
 | Mumbling                                                   | [C#](C%23/7%20kyu/Mumbling.cs)                                                                   |
+| SQL Basics: Raise to the Power                             | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Raise%20to%20the%20Power.sql)                               |
 | SQL Basics: Simple BETWEEN and ORDER BY                    | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Simple%20BETWEEN%20and%20ORDER%20BY.sql)                    |
 | SQL: Concatenating Columns                                 | [SQL](SQL/7%20kyu/SQL%20-%20Concatenating%20Columns.sql)                                         |
 | SQL: Right and Left                                        | [SQL](SQL/7%20kyu/SQL%20-%20Right%20and%20Left.sql)                                              |
