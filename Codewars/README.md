@@ -57,6 +57,7 @@
 | SQL Basics: Raise to the Power                             | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Raise%20to%20the%20Power.sql)                               |
 | SQL Basics: Simple BETWEEN and ORDER BY                    | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Simple%20BETWEEN%20and%20ORDER%20BY.sql)                    |
 | SQL: Concatenating Columns                                 | [SQL](SQL/7%20kyu/SQL%20-%20Concatenating%20Columns.sql)                                         |
+| SQL: Regex Replace                                         | [SQL](SQL/7%20kyu/SQL%20-%20Regex%20Replace.sql)                                                 |
 | SQL: Right and Left                                        | [SQL](SQL/7%20kyu/SQL%20-%20Right%20and%20Left.sql)                                              |
 | Shortest Word                                              | [JavaScript](JavaScript/7%20kyu/Shortest%20Word.js)                                              |
 | Square Every Digit                                         | [C#](C%23/7%20kyu/Square%20Every%20Digit.cs)                                                     |
