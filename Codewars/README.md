@@ -49,6 +49,7 @@
 | Complementaty DNA                                          | [C#](C%23/7%20kyu/Complementary%20DNA.cs)                                                        |
 | Countries Capitals for Trivia Night (SQL for Beginners #6) | [SQL](SQL/7%20kyu/Countries%20Capitals%20for%20Trivia%20Night%20(SQL%20for%20Beginners%206).sql) |
 | Disemvowel Trolls                                          | [C#](C%23/7%20kyu/Disemvowel%20Trolls.cs)                                                        |
+| Easy SQL: Absolute Value and Log to Base                   | [SQL](SQL/7%20kyu/Easy%20SQL%20-%20Absolute%20Value%20and%20Log%20to%20Base.sql)                 |
 | Exes and Ohs                                               | [C#](C%23/7%20kyu/Exes%20and%20Ohs.cs)                                                           |
 | GROCERY STORE: Support Local Products                      | [SQL](SQL%2F7%20kyu%2FGROCERY%20STORE%20-%20Support%20Local%20Products.sql)                      |
 | Get the Middle Character                                   | [C#](C%23/7%20kyu/Get%20the%20Middle%20Character.cs)                                             |
