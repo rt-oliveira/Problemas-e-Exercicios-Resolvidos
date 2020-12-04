@@ -57,6 +57,7 @@
 | Mumbling                                                   | [C#](C%23/7%20kyu/Mumbling.cs)                                                                   |
 | SQL Basics: Raise to the Power                             | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Raise%20to%20the%20Power.sql)                               |
 | SQL Basics: Simple BETWEEN and ORDER BY                    | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Simple%20BETWEEN%20and%20ORDER%20BY.sql)                    |
+| SQL with Street Fighter: Total Wins                        | [SQL](SQL/7%20kyu/SQL%20with%20Street%20Fighter%20-%20Total%20Wins.sql)                          |
 | SQL: Bytes in String from Ints                             | [SQL](SQL/7%20kyu/SQL%20-%20Bytes%20in%20String%20from%20Ints.sql)                               |
 | SQL: Concatenating Columns                                 | [SQL](SQL/7%20kyu/SQL%20-%20Concatenating%20Columns.sql)                                         |
 | SQL: Regex Replace                                         | [SQL](SQL/7%20kyu/SQL%20-%20Regex%20Replace.sql)                                                 |
