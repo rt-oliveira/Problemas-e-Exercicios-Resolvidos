@@ -81,6 +81,7 @@
 
 ## Problemas de nível 5 kyu
 
-| Nome    | Linguagens Disponíveis            |
-|---------|-----------------------------------|
-| Soundex | [Java](Java/5%20kyu/Soundex.java) |
+|            Nome           |                Linguagens Disponíveis                |
+|---------------------------|------------------------------------------------------|
+| Calculating Running Total | [SQL](SQL/5%20kyu/Calculating%20Running%20Total.sql) |
+| Soundex                   | [Java](Java/5%20kyu/Soundex.java)                    |
