@@ -79,6 +79,7 @@
 | SQL Basics: Simple HAVING               | [SQL](SQL%2F6%20kyu%2FSQL%20Basics%20-%20Simple%20HAVING.sql)                  |
 | SQL Basics: Simple table totaling       | [SQL](SQL/6%20kyu/SQL%20Basics%20-%20Simple%20table%20totaling.sql)            |
 | SQL Basics: Truncating                  | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Truncating.sql)                           |
+| Sum of Digits / Digital Root            | [JavaScript](JavaScript/6%20kyu/Sum%20of%20Digits%20-%20Digital%20Root.js)     |
 
 ## Problemas de nível 5 kyu
 
