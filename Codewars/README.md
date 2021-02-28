@@ -35,6 +35,7 @@
 | SQL Basics: Mod                             | [SQL](SQL/8%20kyu/SQL%20Basics%20-%20mod.sql)                                                                             |
 | SQL Basics: Simple DISTINCT                 | [SQL](SQL%2F8%20kyu%2FSQL%20Basics%20-%20Simple%20DISTINCT.sql)                                                           |
 | SQL Basics: Simple WHERE and ORDER BY       | [SQL](SQL%2F8%20kyu%2FSQL%20Basics%20-%20Simple%20WHERE%20and%20ORDER%20BY.sql)                                           |
+| Short Long Short                            | [PHP](PHP/8%20kyu/Short%20Long%20Short.php)                                                                               |
 | Square(n) Sum                               | [JavaScript](JavaScript/8%20kyu/Square\(n\)%20Sum.js)                                                                     |
 | Sum of positive                             | [C#](C%23/8%20kyu/Sum%20of%20positive.cs)                                                                                 |
 
@@ -70,7 +71,7 @@
 
 ## Problemas de nível 6 kyu
 
-|                   Nome                  |                             Linguagens Disponíveis                             |
+| Nome                                    | Linguagens Disponíveis                                                         |
 |-----------------------------------------|--------------------------------------------------------------------------------|
 | Analyzing the sales by product and date | [SQL](SQL%2F6%20kyu%2FAnalyzing%20the%20sales%20by%20product%20and%20date.sql) |
 | Calculating Batting Average             | [SQL](SQL/6%20kyu/Calculating%20Batting%20Average.sql)                         |
@@ -85,7 +86,7 @@
 
 ## Problemas de nível 5 kyu
 
-|            Nome           |                Linguagens Disponíveis                |
+| Nome                      | Linguagens Disponíveis                               |
 |---------------------------|------------------------------------------------------|
 | Calculating Running Total | [SQL](SQL/5%20kyu/Calculating%20Running%20Total.sql) |
 | Soundex                   | [Java](Java/5%20kyu/Soundex.java)                    |
