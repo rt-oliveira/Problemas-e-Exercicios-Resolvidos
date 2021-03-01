@@ -2,7 +2,7 @@
 
 ## Problemas de nível 8 kyu
 
-| Nome                                        | Linguagens disponíveis                                                                                                    |
+|                     Nome                    |                                                   Linguagens disponíveis                                                  |
 |---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | 1. Find all active students                 | [SQL](SQL%2F8%20kyu%2F1.%20Find%20all%20active%20students.sql)                                                            |
 | Abbreviate a Two Word Name                  | [Java](Java/8%20kyu/Abbreviate%20a%20Two%20Word%20Name.java)                                                              |
@@ -18,6 +18,7 @@
 | Count of positives / sum of negatives       | [JavaScript](JavaScript/8%20kyu/Count%20of%20positives%20-%20sum%20of%20negatives.js)                                     |
 | Count the Monkeys                           | [Java](Java/8%20kyu/Count%20the%20Monkeys.java)                                                                           |
 | Counting sheep...                           | [JavaScript](JavaScript/8%20kyu/Counting%20sheep....js)                                                                   |
+| Drink about                                 | [PHP](PHP/8%20kyu/Drink%20about.php)                                                                                      |
 | Even or Odd                                 | [C#](C%23/8%20kyu/Even%20or%20Odd.cs), [JavaScript](JavaScript/8%20kyu/Even%20or%20Odd.js)                                |
 | Fake Binary                                 | [Java](Java/8%20kyu/Fake%20Binary.java)                                                                                   |
 | Find Maximum and Minimum Values of a List   | [Java](Java/8%20kyu/Find%20Maximum%20and%20Minimum%20Values%20of%20a%20List.java)                                         |
