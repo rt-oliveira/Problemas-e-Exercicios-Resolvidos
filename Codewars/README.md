@@ -40,6 +40,7 @@
 | Square(n) Sum                               | [JavaScript](JavaScript/8%20kyu/Square\(n\)%20Sum.js)                                                                     |
 | Sum of positive                             | [C#](C%23/8%20kyu/Sum%20of%20positive.cs)                                                                                 |
 | Super Duper Easy                            | [PHP](PHP/8%20kyu/Super%20Duper%20Easy.php)                                                                               |
+| Total amount of points                      | [PHP](PHP/8%20kyu/Total%20amount%20of%20points.php)                                                                       |
 
 ## Problemas de nível 7 kyu
 
