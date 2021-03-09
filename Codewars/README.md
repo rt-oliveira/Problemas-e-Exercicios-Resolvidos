@@ -15,6 +15,7 @@
 | Century From Year                           | [SQL](SQL%2F8%20kyu%2FCentury%20from%20Year.sql)                                                                          |
 | Compare within Margin                       | [C#](C%23/8%20kyu/Compare%20within%20margin.cs)                                                                           |
 | Convert boolean values to strings Yes or no | [C#](C%23/8%20kyu/Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.cs)                                           |
+| Count Odd Numbers below n                   | [PHP](PHP/8%20kyu/Count%20Odd%20Numbers%20below%20n.php)                                                                  |
 | Count of positives / sum of negatives       | [JavaScript](JavaScript/8%20kyu/Count%20of%20positives%20-%20sum%20of%20negatives.js)                                     |
 | Count the Monkeys                           | [Java](Java/8%20kyu/Count%20the%20Monkeys.java)                                                                           |
 | Counting sheep...                           | [JavaScript](JavaScript/8%20kyu/Counting%20sheep....js)                                                                   |
