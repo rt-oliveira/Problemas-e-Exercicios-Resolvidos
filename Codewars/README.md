@@ -20,6 +20,7 @@
 | Count the Monkeys                           | [Java](Java/8%20kyu/Count%20the%20Monkeys.java)                                                                           |
 | Counting sheep...                           | [JavaScript](JavaScript/8%20kyu/Counting%20sheep....js)                                                                   |
 | Drink about                                 | [PHP](PHP/8%20kyu/Drink%20about.php)                                                                                      |
+| Do I get a bonus?                           | [PHP](PHP/8%20kyu/Do%20I%20get%20a%20bonus.php)                                                                           |
 | Even or Odd                                 | [C#](C%23/8%20kyu/Even%20or%20Odd.cs), [JavaScript](JavaScript/8%20kyu/Even%20or%20Odd.js)                                |
 | Fake Binary                                 | [Java](Java/8%20kyu/Fake%20Binary.java)                                                                                   |
 | Find Maximum and Minimum Values of a List   | [Java](Java/8%20kyu/Find%20Maximum%20and%20Minimum%20Values%20of%20a%20List.java)                                         |
