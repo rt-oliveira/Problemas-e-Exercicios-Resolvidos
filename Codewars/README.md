@@ -26,6 +26,7 @@
 | Find Maximum and Minimum Values of a List   | [Java](Java/8%20kyu/Find%20Maximum%20and%20Minimum%20Values%20of%20a%20List.java)                                         |
 | Find the smallest integer in the array      | [C#](C%23/8%20kyu/Find%20the%20smallest%20integer%20in%20the%20array.cs)                                                  |
 | Get Nth Even Number                         | [C#](C%23/8%20kyu/Get%20Nth%20Even%20Number.cs)                                                                           |
+| Grasshopper - If/else syntax debug          | [PHP](PHP/8%20kyu/Grasshopper%20-%20Ifelse%20syntax%20debug.php)                                                          |
 | Grasshopper - Summation                     | [C#](C%23/8%20kyu/Grasshopper%20-%20Summation.cs)                                                                         |
 | Grasshopper - Terminal game move function   | [Java](Java/8%20kyu/Grasshopper%20-%20Terminal%20game%20move%20function.java)                                             |
 | Invert values                               | [Java](Java/8%20kyu/Invert%20values.java)                                                                                 |
