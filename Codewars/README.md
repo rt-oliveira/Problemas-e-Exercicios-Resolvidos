@@ -10,6 +10,7 @@
 | Basic Mathematical Operations               | [C#](C%23/8%20kyu/Basic%20Mathematical%20Operations.cs)                                                                   |
 | Beginner - Lost Without a Map               | [Java](Java/8%20kyu/Beginner%20-%20Lost%20Without%20a%20Map.java)                                                         |
 | Beginner - Reduce but Grow                  | [Java](Java/8%20kyu/Beginner%20-%20Reduce%20but%20Grow.java)                                                              |
+| Beginner Series #1 School Paperwork         | [PHP](PHP/8%20kyu/Beginner%20Series%201%20School%20Paperwork.php)                                                         |
 | Beginner Series #2 Clock                    | [SQL](SQL/8%20kyu/Beginner%20Series%20%232%20Clock.sql)                                                                   |
 | Calculate average                           | [Java](Java/8%20kyu/Calculate%20average.java)                                                                             |
 | Century From Year                           | [SQL](SQL%2F8%20kyu%2FCentury%20from%20Year.sql)                                                                          |
