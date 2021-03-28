@@ -2,6 +2,8 @@
 
 ## Problemas de nível 8 kyu
 
+<details>
+
 |                     Nome                    |                                                   Linguagens disponíveis                                                  |
 |---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | 1. Find all active students                 | [SQL](SQL%2F8%20kyu%2F1.%20Find%20all%20active%20students.sql)                                                            |
@@ -16,6 +18,7 @@
 | Century From Year                           | [SQL](SQL%2F8%20kyu%2FCentury%20from%20Year.sql)                                                                          |
 | Compare within Margin                       | [C#](C%23/8%20kyu/Compare%20within%20margin.cs)                                                                           |
 | Convert boolean values to strings Yes or no | [C#](C%23/8%20kyu/Convert%20boolean%20values%20to%20strings%20Yes%20or%20No.cs)                                           |
+| Count by X                                  | [PHP](PHP/8%20kyu/Count%20by%20X.php)                                                                                     |
 | Count Odd Numbers below n                   | [PHP](PHP/8%20kyu/Count%20Odd%20Numbers%20below%20n.php)                                                                  |
 | Count of positives / sum of negatives       | [JavaScript](JavaScript/8%20kyu/Count%20of%20positives%20-%20sum%20of%20negatives.js)                                     |
 | Count the Monkeys                           | [Java](Java/8%20kyu/Count%20the%20Monkeys.java)                                                                           |
@@ -46,6 +49,7 @@
 | Sum of positive                             | [C#](C%23/8%20kyu/Sum%20of%20positive.cs)                                                                                 |
 | Super Duper Easy                            | [PHP](PHP/8%20kyu/Super%20Duper%20Easy.php)                                                                               |
 | Total amount of points                      | [PHP](PHP/8%20kyu/Total%20amount%20of%20points.php)                                                                       |
+</details>
 
 ## Problemas de nível 7 kyu
 
