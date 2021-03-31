@@ -53,7 +53,7 @@
 
 ## Problemas de nível 7 kyu
 
-| Nome                                                       | Linguagens disponíveis                                                                           |
+|                            Nome                            |                                      Linguagens disponíveis                                      |
 |------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Alphabetical Addition                                      | [SQL](SQL/7%20kyu/Alphabetical%20Addition.sql)                                                   |
 | Are the numbers in order?                                  | [C#](C%23/7%20kyu/Are%20the%20numbers%20in%20order.cs)                                           |
@@ -79,6 +79,7 @@
 | Square Every Digit                                         | [C#](C%23/7%20kyu/Square%20Every%20Digit.cs)                                                     |
 | Sum of angles                                              | [JavaScript](JavaScript/7%20kyu/Sum%20of%20angles.js)                                            |
 | Vowel Count                                                | [C#](C%23/7%20kyu/Vowel%20Count.cs)                                                              |
+| Who likes it?                                              | [PHP](PHP/7%20kyu/Who%20likes%20it.php)                                                          |
 | You're a square!                                           | [C#](C%23/7%20kyu/You're%20a%20square.cs)                                                        |
 
 ## Problemas de nível 6 kyu
