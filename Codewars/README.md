@@ -85,9 +85,10 @@
 
 ## Problemas de nível 6 kyu
 
-| Nome                                    | Linguagens Disponíveis                                                         |
+|                   Nome                  |                             Linguagens Disponíveis                             |
 |-----------------------------------------|--------------------------------------------------------------------------------|
 | Analyzing the sales by product and date | [SQL](SQL%2F6%20kyu%2FAnalyzing%20the%20sales%20by%20product%20and%20date.sql) |
+| Bit Counting                            | [PHP](PHP/6%20kyu/Bit%20Counting.php)                                          |
 | Calculating Batting Average             | [SQL](SQL/6%20kyu/Calculating%20Batting%20Average.sql)                         |
 | Conditional Count                       | [SQL](SQL/6%20kyu/Conditional%20Count.sql)                                     |
 | Multiples of 3 or 5                     | [Java](Java/6%20kyu/Multiples%20of%203%20or%205.java)                          |
