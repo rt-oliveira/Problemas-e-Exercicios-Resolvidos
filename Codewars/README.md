@@ -79,6 +79,7 @@
 | Shortest Word                                              | [JavaScript](JavaScript/7%20kyu/Shortest%20Word.js)                                              |
 | Square Every Digit                                         | [C#](C%23/7%20kyu/Square%20Every%20Digit.cs)                                                     |
 | Sum of angles                                              | [JavaScript](JavaScript/7%20kyu/Sum%20of%20angles.js)                                            |
+| Two to One                                                 | [PHP](PHP/7%20kyu/Two%20to%20One.php)                                                            |
 | Vowel Count                                                | [C#](C%23/7%20kyu/Vowel%20Count.cs)                                                              |
 | You're a square!                                           | [C#](C%23/7%20kyu/You're%20a%20square.cs)                                                        |
 
