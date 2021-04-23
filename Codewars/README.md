@@ -91,6 +91,7 @@
 | Bit Counting                            | [PHP](PHP/6%20kyu/Bit%20Counting.php)                                          |
 | Calculating Batting Average             | [SQL](SQL/6%20kyu/Calculating%20Batting%20Average.sql)                         |
 | Conditional Count                       | [SQL](SQL/6%20kyu/Conditional%20Count.sql)                                     |
+| Duplicate Encoder                       | [PHP](PHP/6%20kyu/Duplicate%20Encoder.php)                                     |
 | Multiples of 3 or 5                     | [Java](Java/6%20kyu/Multiples%20of%203%20or%205.java)                          |
 | SQL Basics: Simple EXISTS               | [SQL](SQL/6%20kyu/SQL%20Basics%20-%20Simple%20EXISTS.sql)                      |
 | SQL Basics: Simple HAVING               | [SQL](SQL%2F6%20kyu%2FSQL%20Basics%20-%20Simple%20HAVING.sql)                  |
