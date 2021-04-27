@@ -69,6 +69,7 @@
 | Highest and Lowest                                         | [C#](C%23/7%20kyu/Highest%20and%20Lowest.cs)                                                     |
 | Mumbling                                                   | [C#](C%23/7%20kyu/Mumbling.cs)                                                                   |
 | Ones and Zeros                                             | [PHP](PHP/7%20kyu/Ones%20and%20Zeros.php)                                                        |
+| Printer Errors                                             | [PHP](PHP/7%20kyu/Printer%20Errors.php)                                                          |
 | SQL Basics: Raise to the Power                             | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Raise%20to%20the%20Power.sql)                               |
 | SQL Basics: Simple BETWEEN and ORDER BY                    | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Simple%20BETWEEN%20and%20ORDER%20BY.sql)                    |
 | SQL with Street Fighter: Total Wins                        | [SQL](SQL/7%20kyu/SQL%20with%20Street%20Fighter%20-%20Total%20Wins.sql)                          |
