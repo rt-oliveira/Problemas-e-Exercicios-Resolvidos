@@ -67,6 +67,7 @@
 | GROCERY STORE: Support Local Products                      | [SQL](SQL%2F7%20kyu%2FGROCERY%20STORE%20-%20Support%20Local%20Products.sql)                      |
 | Get the Middle Character                                   | [C#](C%23/7%20kyu/Get%20the%20Middle%20Character.cs)                                             |
 | Highest and Lowest                                         | [C#](C%23/7%20kyu/Highest%20and%20Lowest.cs)                                                     |
+| Median fun fun                                             | [PHP](PHP/7%20kyu/Median%20fun%20fun.php)                                                        |
 | Mumbling                                                   | [C#](C%23/7%20kyu/Mumbling.cs)                                                                   |
 | Ones and Zeros                                             | [PHP](PHP/7%20kyu/Ones%20and%20Zeros.php)                                                        |
 | Printer Errors                                             | [PHP](PHP/7%20kyu/Printer%20Errors.php)                                                          |
