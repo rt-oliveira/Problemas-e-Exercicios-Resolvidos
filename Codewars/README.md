@@ -107,7 +107,8 @@
 
 ## Problemas de nível 5 kyu
 
-| Nome                      | Linguagens Disponíveis                               |
+|            Nome           |                Linguagens Disponíveis                |
 |---------------------------|------------------------------------------------------|
 | Calculating Running Total | [SQL](SQL/5%20kyu/Calculating%20Running%20Total.sql) |
+| Human Readable Time       | [PHP](PHP/5%20kyu/Human%20Readable%20Time.php)       |
 | Soundex                   | [Java](Java/5%20kyu/Soundex.java)                    |
