@@ -103,6 +103,7 @@
 | SQL Basics: Truncating                  | [SQL](SQL/7%20kyu/SQL%20Basics%20-%20Truncating.sql)                           |
 | Stop gninnipS My sdroW!                 | [JavaScript](JavaScript/6%20kyu/Stop%20gninnipS%20My%20sdroW.js)               |
 | Sum of Digits / Digital Root            | [JavaScript](JavaScript/6%20kyu/Sum%20of%20Digits%20-%20Digital%20Root.js)     |
+| Tribonacci Sequence                     | [PHP](PHP/6%20kyu/Tribonacci%20Sequence.php)                                   |
 | Who likes it?                           | [PHP](PHP/7%20kyu/Who%20likes%20it.php)                                        |
 
 ## Problemas de nível 5 kyu
