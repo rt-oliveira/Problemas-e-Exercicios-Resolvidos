@@ -99,6 +99,7 @@
 | Duplicate Encoder                       | [PHP](PHP/6%20kyu/Duplicate%20Encoder.php)                                     |
 | Find the missing letter                 | [PHP](PHP/6%20kyu/Find%20the%20missing%20letter.php)                           |
 | Multiples of 3 or 5                     | [Java](Java/6%20kyu/Multiples%20of%203%20or%205.java)                          |
+| Playing with digits                     | [PHP](PHP/6%20kyu/Playing%20with%20digits.php)                                 |
 | SQL Basics: Simple EXISTS               | [SQL](SQL/6%20kyu/SQL%20Basics%20-%20Simple%20EXISTS.sql)                      |
 | SQL Basics: Simple HAVING               | [SQL](SQL%2F6%20kyu%2FSQL%20Basics%20-%20Simple%20HAVING.sql)                  |
 | SQL Basics: Simple table totaling       | [SQL](SQL/6%20kyu/SQL%20Basics%20-%20Simple%20table%20totaling.sql)            |
