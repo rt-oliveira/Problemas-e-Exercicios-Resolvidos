@@ -98,6 +98,7 @@
 | Create Phone Number                     | [PHP](PHP/6%20kyu/Create%20Phone%20Number.php)                                 |
 | Duplicate Encoder                       | [PHP](PHP/6%20kyu/Duplicate%20Encoder.php)                                     |
 | Find the missing letter                 | [PHP](PHP/6%20kyu/Find%20the%20missing%20letter.php)                           |
+| Is a number prime?                      | [PHP](PHP/6%20kyu/Is%20a%20number%20prime.php)                                 |
 | Multiples of 3 or 5                     | [Java](Java/6%20kyu/Multiples%20of%203%20or%205.java)                          |
 | Playing with digits                     | [PHP](PHP/6%20kyu/Playing%20with%20digits.php)                                 |
 | SQL Basics: Simple EXISTS               | [SQL](SQL/6%20kyu/SQL%20Basics%20-%20Simple%20EXISTS.sql)                      |
